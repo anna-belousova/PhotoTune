@@ -5,13 +5,18 @@
 * Локализация приложения на русский и японский языки
 * Выгрузка фото в разном разрешении
 <p float="left">
-  <img src="/Screenshots/IMG_3015.PNG" width="300" />
-  <img src="/Screenshots/IMG_3017.PNG" width="300" />
-  <img src="/Screenshots/IMG_3018.PNG" width="300" /> 
+  <img src="/Screenshots/IMG_3015.PNG" width="250" />
+  <img src="/Screenshots/IMG_3017.PNG" width="250" />
+  <img src="/Screenshots/IMG_3018.PNG" width="250" /> 
  </p>
  <p float="left">
-  <img src="/Screenshots/IMG_3019.PNG" width="300" />
-  <img src="/Screenshots/IMG_3020.PNG" width="300" />
-  <img src="/Screenshots/IMG_3021.PNG" width="300" /> 
+  <img src="/Screenshots/IMG_3019.PNG" width="250" />
+  <img src="/Screenshots/IMG_3027.PNG" width="250" />
+  <img src="/Screenshots/IMG_3025.PNG" width="250" /> 
+ </p>
+ <p float="left">
+  <img src="/Screenshots/IMG_3028.PNG" width="250" />
+  <img src="/Screenshots/IMG_3029.PNG" width="250" />
+  <img src="/Screenshots/IMG_3030.PNG" width="250" /> 
  </p>
 
