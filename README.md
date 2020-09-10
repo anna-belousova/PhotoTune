@@ -5,6 +5,7 @@
 * Локализация приложения на русский и японский языки
 * Выгрузка фото в разном разрешении
 * Архитектура MVP-R
+* Верстка UI в коде
 <p float="left">
   <img src="/Screenshots/IMG_3015.PNG" width="250" />
   <img src="/Screenshots/IMG_3017.PNG" width="250" />
