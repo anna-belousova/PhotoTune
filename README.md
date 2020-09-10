@@ -4,5 +4,14 @@
 * Обработка фото стандартными фильтрами, кастомная настройка яркости, контрастности, насыщенности, четкости, поворот фото
 * Локализация приложения на русский и японский языки
 * Выгрузка фото в разном разрешении
-
+<p float="left">
+  <img src="/Screenshots/IMG_3015.PNG" width="300" />
+  <img src="/Screenshots/IMG_3017.PNG" width="300" />
+  <img src="/Screenshots/IMG_3018.PNG" width="300" /> 
+ </p>
+ <p float="left">
+  <img src="/Screenshots/IMG_3019.PNG" width="300" />
+  <img src="/Screenshots/IMG_3020.PNG" width="300" />
+  <img src="/Screenshots/IMG_3021.PNG" width="300" /> 
+ </p>
 
